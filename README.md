@@ -25,5 +25,3 @@
 - 🧠 Excellent analytical & problem-solving abilities.
 - 👥 A team player committed to fostering a positive and collaborative work environment.
 - 🗨️ Strong communication skills, capable of translating complex technical details into understandable concepts.
-
----
